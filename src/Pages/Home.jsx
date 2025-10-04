@@ -143,10 +143,10 @@ const categories = [
   
       </section>
        
-      <section className="flex flex-col md:flex-row items-center justify-between bg-white min-h-screen p-6 md:p-16">
+      <section className="flex flex-col md:flex-row items-center justify-between bg-white min-h-screen p-6 md:p-6">
       
       <div className="md:w-1/2 w-full flex flex-col justify-center">
-        <h1 className="text-4xl md:text-6xl font-semibold text-gray-900 leading-tight mb-6"> 
+        <h1 className="text-4xl md:text-6xl lg:text-6xl font-semibold text-gray-900 leading-tight mb-6"> 
           <Link to="shop2">
            <p className="inline-block bg-green-100 text-green-700 text-xs font-semibold px-3 py-1 rounded-full mb-4">
           Agricultural Support
